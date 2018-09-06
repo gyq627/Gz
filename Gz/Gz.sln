@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz", "Gz\Gz.csproj", "{E982E7DA-4F56-4050-8E43-169AAD5C149B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gz.Db", "Gz.Db\Gz.Db.csproj", "{7FA3F217-A86E-4DBD-AAAA-C2EE8E5BD528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E982E7DA-4F56-4050-8E43-169AAD5C149B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E982E7DA-4F56-4050-8E43-169AAD5C149B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E982E7DA-4F56-4050-8E43-169AAD5C149B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E982E7DA-4F56-4050-8E43-169AAD5C149B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA3F217-A86E-4DBD-AAAA-C2EE8E5BD528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA3F217-A86E-4DBD-AAAA-C2EE8E5BD528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA3F217-A86E-4DBD-AAAA-C2EE8E5BD528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA3F217-A86E-4DBD-AAAA-C2EE8E5BD528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9031FDA5-2285-4A6E-9158-DDA195D1A394}
+	EndGlobalSection
+EndGlobal
